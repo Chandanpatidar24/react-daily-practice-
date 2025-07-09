@@ -8,11 +8,11 @@ Each folder contains code, notes, and solutions for a specific day of learning a
 
 ## 📅 Progress Overview
 
-| Day | Topics Covered                       | Link                                      |
-|-----|--------------------------------------|-------------------------------------------|
-| 01  | JSX Basics, Rendering, Components    | [Day 01 →](./src/Day01_jsx/README.md)     |
-| 02  | _Coming Soon..._                     | -                                         |
-| 03  | _Coming Soon..._                     | -                                         |
+| Day | Topics Covered                                   | Link                                          |
+|-----|--------------------------------------------------|-----------------------------------------------|
+| 01  | JSX Basics, Rendering, Components                | [Day 01 →](./src/Day01_jsx/README.md)         |
+| 02  | Composition, Nesting, Props, Render to DOM       | [Day 02 →](./src/Day02/README.md)  |
+| 03  | _Coming Soon..._                                 | -                                             |
 
 ---
 
@@ -56,4 +56,4 @@ Feel free to open an issue or PR if you have suggestions or want to contribute!
 
 ---
 
-# react-daily-practice-
+# react-daily-practice
